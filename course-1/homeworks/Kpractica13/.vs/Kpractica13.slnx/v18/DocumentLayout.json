@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFC771E-07F2-4F80-8DA5-DBAA8C4D3409}|Kpractica13.csproj|C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFC771E-07F2-4F80-8DA5-DBAA8C4D3409}|Kpractica13.csproj|solutionrelative:reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFC771E-07F2-4F80-8DA5-DBAA8C4D3409}|Kpractica13.csproj|C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFC771E-07F2-4F80-8DA5-DBAA8C4D3409}|Kpractica13.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFC771E-07F2-4F80-8DA5-DBAA8C4D3409}|Kpractica13.csproj|C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\publishinghouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFC771E-07F2-4F80-8DA5-DBAA8C4D3409}|Kpractica13.csproj|solutionrelative:publishinghouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFC771E-07F2-4F80-8DA5-DBAA8C4D3409}|Kpractica13.csproj|c:\\users\\user\\desktop\\kodportfolio\\course-1\\homeworks\\kpractica13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFC771E-07F2-4F80-8DA5-DBAA8C4D3409}|Kpractica13.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFC771E-07F2-4F80-8DA5-DBAA8C4D3409}|Kpractica13.csproj|C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\ilibrarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFC771E-07F2-4F80-8DA5-DBAA8C4D3409}|Kpractica13.csproj|solutionrelative:ilibrarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFC771E-07F2-4F80-8DA5-DBAA8C4D3409}|Kpractica13.csproj|C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\publication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFC771E-07F2-4F80-8DA5-DBAA8C4D3409}|Kpractica13.csproj|solutionrelative:publication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFC771E-07F2-4F80-8DA5-DBAA8C4D3409}|Kpractica13.csproj|C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFC771E-07F2-4F80-8DA5-DBAA8C4D3409}|Kpractica13.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Publication.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\Publication.cs",
+              "RelativeDocumentMoniker": "Publication.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\Publication.cs",
+              "RelativeToolTip": "Publication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:53:31.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:52:06.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILibraryManagement.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\ILibraryManagement.cs",
+              "RelativeDocumentMoniker": "ILibraryManagement.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\ILibraryManagement.cs",
+              "RelativeToolTip": "ILibraryManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:50:09.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\Reader.cs",
+              "RelativeDocumentMoniker": "Reader.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\Reader.cs",
+              "RelativeToolTip": "Reader.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvyIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:48:41.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:43:37.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublishingHouse.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\PublishingHouse.cs",
+              "RelativeDocumentMoniker": "PublishingHouse.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\PublishingHouse.cs",
+              "RelativeToolTip": "PublishingHouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:42:28.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\KODPORTFOLIO\\course-1\\homeworks\\Kpractica13\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T13:45:52.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

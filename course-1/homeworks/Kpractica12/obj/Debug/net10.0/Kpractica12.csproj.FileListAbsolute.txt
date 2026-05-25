@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica12\bin\Debug\net10.0\Kpractica12.exe
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica12\bin\Debug\net10.0\Kpractica12.deps.json
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica12\bin\Debug\net10.0\Kpractica12.runtimeconfig.json
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica12\bin\Debug\net10.0\Kpractica12.dll
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica12\bin\Debug\net10.0\Kpractica12.pdb
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica12\obj\Debug\net10.0\Kpractica12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica12\obj\Debug\net10.0\Kpractica12.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica12\obj\Debug\net10.0\Kpractica12.AssemblyInfo.cs
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica12\obj\Debug\net10.0\Kpractica12.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica12\obj\Debug\net10.0\Kpractica12.sourcelink.json
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica12\obj\Debug\net10.0\Kpractica12.dll
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica12\obj\Debug\net10.0\refint\Kpractica12.dll
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica12\obj\Debug\net10.0\Kpractica12.pdb
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica12\obj\Debug\net10.0\Kpractica12.genruntimeconfig.cache
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica12\obj\Debug\net10.0\ref\Kpractica12.dll

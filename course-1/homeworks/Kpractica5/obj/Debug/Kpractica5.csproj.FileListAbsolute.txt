@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica5\obj\Debug\Kpractica5.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica5\obj\Debug\Kpractica5.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica5\bin\Debug\Kpractica5.exe.config
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica5\bin\Debug\Kpractica5.exe
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica5\bin\Debug\Kpractica5.pdb
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica5\obj\Debug\Kpractica5.exe
+C:\Users\USER\Desktop\KODPORTFOLIO\course-1\homeworks\Kpractica5\obj\Debug\Kpractica5.pdb
